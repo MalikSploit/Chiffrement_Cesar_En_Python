@@ -2,7 +2,7 @@
 Pogramme de chiffrement et déchiffrement césar d'un message en python3.
 
 # Explication du chiffrement de César avec une complexité O(n<sup>2</sup>)
-1. D’abord on donne une liste d’alphabet en minuscule et une liste d’alphabet en majuscule
+1. D’abord on donne une liste d’alphabet en minuscule et une liste d’alphabet en majuscule.
 
 2. On parcourt tout l’alphabet et append l’alphabet en minuscule et l’alphabet en majuscule à 
 chaque parcourt.
